@@ -52,4 +52,5 @@ Informative tone for curious users
 
 GIT HUB LINK
 https://github.com/AngelMakua-dev/CyberSecurityBott
-
+YOUTUBE LINK
+https://youtu.be/6NvN96c3H8Y?si=xx84obTEXGOv6I1i
