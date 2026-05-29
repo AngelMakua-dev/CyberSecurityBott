@@ -50,6 +50,8 @@ Supportive tone for worried users
 Encouraging tone for confused users
 Informative tone for curious users
 
+<img width="1358" height="712" alt="image" src="https://github.com/user-attachments/assets/6b424a4e-434b-4bf9-8130-f525aec6741d" />
+
 GIT HUB LINK
 https://github.com/AngelMakua-dev/CyberSecurityBott
 YOUTUBE LINK
