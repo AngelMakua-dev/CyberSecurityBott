@@ -1,12 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Media;
 
-namespace CyberSecurityBott
+namespace CyberSecurityBott.Classes
 {
-    internal class AudioPlayer
+    public static class AudioPlayer
     {
+        public static void PlayGreeting()
+        {
+            try
+            {
+                SoundPlayer player = new SoundPlayer("Assets/Cybersecurity bot.wav");
+                player.Play();
+            }
+            catch
+            {
+
+            }
+        }
     }
 }

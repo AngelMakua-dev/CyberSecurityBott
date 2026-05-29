@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace CyberSecurityBott
+namespace CyberSecurityBott.Classes
 {
-    internal class MemoryManager
+    public class MemoryManager
     {
+        public Dictionary<string, string> UserMemory
+            = new Dictionary<string, string>();
     }
 }
