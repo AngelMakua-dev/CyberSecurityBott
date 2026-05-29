@@ -1,4 +1,4 @@
-﻿using CyberSecurityBot.Classes;
+﻿using CyberSecurityBott.Classes;
 using System;
 using System.Windows;
 
