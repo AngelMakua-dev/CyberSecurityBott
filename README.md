@@ -92,3 +92,57 @@ GIT HUB LINK
 https://github.com/AngelMakua-dev/CyberSecurityBott
 YOUTUBE LINK
 https://youtu.be/6NvN96c3H8Y?si=xx84obTEXGOv6I1i
+Cybersecurity Awareness Chatbot – Part 3
+
+Overview
+
+This project is a Cybersecurity Awareness Chatbot developed using C# and WPF. It is designed to educate users about cybersecurity while providing interactive features to improve user engagement and awareness.
+
+Features
+
+Chatbot
+
+- Provides cybersecurity advice on topics such as passwords, phishing, scams, privacy, malware, VPNs, and two-factor authentication.
+- Remembers user information from previous interactions.
+- Detects user sentiment and responds appropriately.
+- Uses keyword recognition to answer cybersecurity-related questions.
+
+Task Assistant
+
+- Allows users to create cybersecurity-related tasks.
+- Users can add task titles, descriptions, and reminder dates.
+- Tasks can be viewed, managed, marked as completed, or removed.
+- Tasks are intended to be stored using a MySQL database.
+
+Cybersecurity Quiz
+
+- Includes multiple-choice and True/False cybersecurity questions.
+- Displays one question at a time.
+- Provides immediate feedback after each answer.
+- Keeps track of the user's score and displays the final result.
+
+Natural Language Processing (NLP) Simulation
+
+- Uses keyword detection and simple string matching to understand different ways users phrase requests.
+- Recognises commands related to tasks, reminders, quizzes, and cybersecurity topics without requiring exact wording.
+
+Activity Log
+
+- Records important chatbot actions such as adding tasks, setting reminders, starting quizzes, completing quizzes, and recognised NLP commands.
+- Displays a summary of recent activities when requested by the user.
+
+Technologies Used
+
+- C#
+- WPF (Windows Presentation Foundation)
+- XAML
+- MySQL
+- Visual Studio 2022
+
+Author
+
+Angel Makua st10472911
+
+Notes
+
+This application was developed for the Programming POE and demonstrates GUI development, database integration, basic Natural Language Processing simulation, and cybersecurity awareness education.
